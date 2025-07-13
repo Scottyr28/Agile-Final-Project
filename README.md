@@ -1,6 +1,6 @@
-[# Agile Final Project
+# Agile Final Project
 
-This project demonstrates the use of agile methodology for developing a back-end product catalog for an e-commerce website.
+This repo contains a simulated agile workflow for a product catalog API using GitHub Issues, Labels, Projects, and Milestones.
 
-- See the [Final Project Kanban board](../../projects) for workflow and sprint management.
-- User stories, acceptance criteria, and technical tasks are tracked as issues in this repository.](https://github.com/copilot/c/4363a1d4-1763-49e2-979b-6bb8446274db)
+- **Kanban Board:** [View Project Board](https://github.com/Scottyr28/agile-final-project/projects/1)
+- **User Stories:** See Issues tab for all user stories, acceptance criteria, and labels.
